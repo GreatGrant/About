@@ -4,4 +4,5 @@
 run on the terminal
 
 `npm install prompt-sync`
+Then
 `node me.js`
